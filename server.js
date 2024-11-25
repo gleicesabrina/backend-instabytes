@@ -3,17 +3,17 @@ import express from "express";
 const posts = [
     {
         id:"1",
-        Descrição: "Uma foto de teste",
+        Descrica: "Uma foto de teste",
         imagem: "https://placecats.com/millie/300/150"
     },
     {
         id:"2",
-        Descrição: "Gato fazendo yoga",
+        Descricao: "Gato fazendo yoga",
         imagem: "https://placecats.com/millie/300/150"
     },
     {
         id:"3",
-        Descrição: "Gato fazendo panqueca",
+        Descricao: "Gato fazendo panqueca",
         imagem: "https://placecats.com/millie/300/150"
     },
 
